@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aashi Pradhan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **NodeJS,Django,Python**
+- 🔭 I’m currently working on **NodeJS,Django,Python,Java**
 
-- 🌱 I’m currently learning **Jest testing framework**
+- 🌱 I’m currently learning **Jest testing framework and Fast API**
 
 - 💬 Ask me about **NodeJS,NestJs, Jest & NextJS**
 

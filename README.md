@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aashi Pradhan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **NodeJS**
+- 🔭 I’m currently working on **NodeJS,Django,Python**
 
 - 🌱 I’m currently learning **Jest testing framework**
 
-- 💬 Ask me about **NodeJS, Jest & NextJS**
+- 💬 Ask me about **NodeJS,NestJs, Jest & NextJS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aashi-pradhan-5b3348188/**
 
